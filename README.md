@@ -1,4 +1,4 @@
-# What is Valorant Franchising
+# What is Valorant Franchising?
 Valorant Franchising is a competitive Valorant league that will partner with a bunch of different organizations from a around the world. 
 In total there are only 30 teams from all over the world.
 These organizations will make up the tier 1 teams in Valorant, consisting of the best of the best players.
