@@ -1,23 +1,32 @@
-# Teams That Made It
+# What is Valorant Franchising
+Valorant Franchising is a competitive Valorant league that will partner with a bunch of different organizations from a around the world. 
+In total there are only 30 teams from all over the world.
+These organizations will make up the tier 1 teams in Valorant, consisting of the best of the best players.
+Teams will compete with each other over the course of the year, a competition to see who is the best team in the world. 
+<br>
+
+
+
+## Teams That Made It
 In Valorant Franchising for North America, there were only 5 teams that made it into the tier 1 scene.
 These teams consist of 100 Thieves, Sentinels, Evil Geniuses, Cloud 9, and NRG.  
 <br> 
 
-# Teams That were Left Out
+## Teams That were Left Out
 Some of the notable teams that did not make it are OPTIC, and XSET, 2 notable teams that both finished within the top 4 in Valorant Champions 2022. 
 Valorant Champions consisted of the best teams from all around the world that competed against each other on an international stage. 
 This left many people in shock to see that the best 2 teams currently in NA did not make it into franchising. 
 <br>
 
 
-## What Now?
+### What Now?
 Professional Valorant players from former tier 1 teams are leaving their teams and becoming a free agent, in hope that a team in Franchising will pick them up. 
 Teams such as Optic, and XSET are breaking up their teams and heading in different directions, following the news of not making it into Franchising. 
 Some teams however, will still stay together as a team and play in Tier 2 tounaments, and work their way up to the top from there. 
 <br>
 
 
-## Controversy with Riot Games
+### Controversy with Riot Games
 Many people are wondering why the best teams in the world did not make Franchising this year? 
 It turns out that Riot Games chose the teams based on their relationship with the organization, rather than their skill level in the Valorant scene. 
 Teams that people thought would make it, such as TSM, FaZe, and Optic did not get in due to their negative relationship and controversy from years prior with Riot Games.
@@ -27,7 +36,7 @@ Following the Andrew Tate conbtroversy, Riot Games did not want to partner with 
 <br>
 
 
-### Notable Free Agents
+#### Notable Free Agents
 One of the names that has every organization's attention is Optic Yay, who is one of the best players in the world. 
 He was being offered $1 million contracts from teams from the EMEA region, but even turned this offer down, probably wanting to stay in the NA region. 
 Currently, he is being rumored to join Cloud 9 that would ultimately make C9 instantly one of the favorites. 
