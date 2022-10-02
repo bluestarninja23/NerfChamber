@@ -32,7 +32,9 @@ One of the names that has every organization's attention is Optic Yay, who is on
 He was being offered $1 million contracts from teams from the EMEA region, but even turned this offer down, probably wanting to stay in the NA region. 
 Currently, he is being rumored to join Cloud 9 that would ultimately make C9 instantly one of the favorites. 
 For XSET Cryo, another player who is one of the best in the NA region, joined 100 Thieves, meaning 100T Will is either going to be released or moved to the bench.
+NRG is also rumored to be getting 3 of the former optic players, consisting of Crashies, FNS, and Victor, as well as their coach. 
 There are many players in the future that will be joining teams, along with organizations dropping the current players with their team. 
 Nobody is safe on every team, making the future of Valorant unpredictable with all the new roster changes. 
 <br>
+
 If you want to learn about this topic 
