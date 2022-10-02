@@ -37,4 +37,5 @@ There are many players in the future that will be joining teams, along with orga
 Nobody is safe on every team, making the future of Valorant unpredictable with all the new roster changes. 
 <br>
 
-If you want to learn about Valorant Franchising go to https://realsport101.com/valorant/valorant-franchising-system-2023-who-will-take-part-how-it-works-and-more/
+If you want to learn about Valorant Franchising click the link down below. 
+https://realsport101.com/valorant/valorant-franchising-system-2023-who-will-take-part-how-it-works-and-more/
