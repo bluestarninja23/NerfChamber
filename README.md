@@ -7,7 +7,7 @@ Teams will compete with each other over the course of the year, a competition to
 
 
 
-![The popular game] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fstaticg.sportskeeda.com%2Feditor%2F2021%2F11%2F1e2dc-16365302333096-1920.jpg&imgrefurl=https%3A%2F%2Fwww.sportskeeda.com%2Fvalorant%2Ffuture-valorant-constant-meta-shifts-making-riot-s-shooter-one-successful-esports-titles&tbnid=TueitWcmCG2CGM&vet=12ahUKEwjP1f2QuMX6AhXOgokEHQwLC0sQMygAegQIARBJ..i&docid=tImHXpIEqQkJ2M&w=1900&h=1280&q=valorant&hl=en&ved=2ahUKEwjP1f2QuMX6AhXOgokEHQwLC0sQMygAegQIARBJ)
+![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstaticg.sportskeeda.com%2Feditor%2F2021%2F11%2F1e2dc-16365302333096-1920.jpg&imgrefurl=https%3A%2F%2Fwww.sportskeeda.com%2Fvalorant%2Ffuture-valorant-constant-meta-shifts-making-riot-s-shooter-one-successful-esports-titles&tbnid=TueitWcmCG2CGM&vet=12ahUKEwjP1f2QuMX6AhXOgokEHQwLC0sQMygAegQIARBJ..i&docid=tImHXpIEqQkJ2M&w=1900&h=1280&q=valorant&hl=en&ved=2ahUKEwjP1f2QuMX6AhXOgokEHQwLC0sQMygAegQIARBJ)
 
 ## Teams That Made It
 In Valorant Franchising for North America, there were only 5 teams that made it into the tier 1 scene.
